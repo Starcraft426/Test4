@@ -7,6 +7,18 @@
 
 #include <stdio.h>
 
+int ajouter(int x, int a){
+    return x+a;
+}
+
+int soustraire(int x, int a){
+    return x-a;
+}
+
+int multiplier(int x, int a){
+    return x*a;
+}
+
 int main(int argc, const char * argv[]) {
     // insert code here...
     printf("Hello, World!\n");
