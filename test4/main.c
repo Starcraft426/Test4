@@ -27,6 +27,10 @@ void rien(void){
     return;
 }
 
+void rien2(void){
+    return;
+}
+
 int main(int argc, const char * argv[]) {
     // insert code here...
     printf("Hello, World!\n");
