@@ -23,6 +23,10 @@ float diviser(int x, int a){
     return (float)(x/a);
 }
 
+void rien(void){
+    return;
+}
+
 int main(int argc, const char * argv[]) {
     // insert code here...
     printf("Hello, World!\n");
